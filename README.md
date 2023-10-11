@@ -1,9 +1,9 @@
-Oi, eu sou @Bigfend
+Oi, eu me chamo Mateus Bezerra!
 
-•👀 Estou interessado em aprender Aprenda dicas e conceitos sobre programação;
+•👀 Estou interessado em aprender dicas e conceitos sobre programação;
 
-•Atualmente estou aprendendo o básico de Front-End, JS para React;
+•Atualmente crio projetos web com HTML5, CSS3 e o basico de Java Script;
 
 •💞️ Estou procurando colaborar na distribuição de códigos e dicas de CSS3, e algumas coisas de JS para aqueles que estão começando como eu;
 
-•Como entrar em contato comigo ... no Instagram @omateusdesign
+•Entre em contato comigo ... pelo Instagram @omateusdesign
